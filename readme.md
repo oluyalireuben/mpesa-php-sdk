@@ -4,7 +4,7 @@ This package seeks to help php developers implement the various Mpesa APIs witho
  
  **Installation using composer**<br>
  `composer require safaricom/mpesa`<br>
- 
+  
  
  **Configuration**<br>
  At your project root, create a .env file and in it set the consumer key and consumer secret as follows   
